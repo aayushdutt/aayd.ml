@@ -1,0 +1,17 @@
+{
+  "name": "aayd.ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "baseUrl": "http://aayd.ml",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "netlify-shortener": "^1.0.4"
+  }
+}
